@@ -1,0 +1,3 @@
+bucket = "terraformm-remote-backend"
+key    = "terraform/state"
+region = "ap-south-1"
